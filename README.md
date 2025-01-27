@@ -7,8 +7,8 @@ sudo apt upgrade -y
 
 source <(wget -O - https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/heads/main/install-node.sh)
 
-git clone https://github.com/CryptoAirdropHindi1/LedgeBOT.git
-cd LedgeBOT
+https://github.com/CryptoAirdropHindi/Ledge-bot.git
+cd Ledge-bot
 
 
 npm install node-fetch ethers fs readline cfonts chalk
